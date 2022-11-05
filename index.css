@@ -1,0 +1,34 @@
+.banner-text {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.banner-text__btn1 {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #d3a417;
+    border-style: none;
+}
+
+.banner-text__btn2 {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #ced4da;
+    border-style: none;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.paragraph-2__header {
+    font-size: 20px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 20px
+}
+
+.paragraph-3__list {
+    color: #d39e00;
+}
